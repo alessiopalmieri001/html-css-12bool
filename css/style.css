@@ -3,4 +3,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* general */
+.box{
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
 }
