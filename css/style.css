@@ -12,4 +12,8 @@
     color: white;
     padding: 10px;
     text-align: center;
+    min-height: 50px;
+}
+.green{
+    background-color: #00e165;
 }
