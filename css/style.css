@@ -14,6 +14,22 @@
     text-align: center;
     min-height: 50px;
 }
+.dim{
+    min-height: 100px;
+}
+.align-self-center{
+    align-self: center;
+}
+.align-self-end{
+    align-self: end;
+}
 .green{
     background-color: #00e165;
+}
+.around{
+    justify-content: space-around;
+}
+
+.beetween{
+    justify-content: space-between;
 }
